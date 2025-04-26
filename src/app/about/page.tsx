@@ -18,7 +18,7 @@ export default function Testimonials() {
 
 
       {/* Testimonials Section */}
-      <div className="relative z-10 bg-transparent px-60  py-12 border mt-24 p-5 border-gray-800 rounded-lg">
+      <div className="relative z-10 bg-transparent px-4 sm:px-12 md:px-24 lg:px-60 py-12 border mt-24 p-5 border-gray-800 rounded-lg">
         <AboutSection />
         <ServicesSection/>
 
