@@ -62,7 +62,7 @@ export default function Home() {
             <hr className="border-t border-gray-600 my-6 sm:my-10" />
 
             {/* Snap Section 2 */}
-            <div className="flex text-white text-center">
+            <div className="flex justify-center text-white text-center">
               <div className="mt-10 sm:mt-30 mb-20 sm:mb-40 rounded-lg p-4 max-w-full sm:max-w-4xl">
                 <div className="grid grid-cols-1 sm:grid-cols-3 divide-y sm:divide-y-0 sm:divide-x">
                   <div className="px-4 py-2">
